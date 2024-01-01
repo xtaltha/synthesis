@@ -3,7 +3,7 @@
   xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Author>xtaltha</Author>
   <Email />
-  <Name>synthesis</Name>
+  <Name>neon-synthesis</Name>
   <Version>0.0.0</Version>
   <IsRedMod>false</IsRedMod>
   <ExecuteDeploy>false</ExecuteDeploy>
