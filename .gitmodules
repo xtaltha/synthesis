@@ -1,0 +1,4 @@
+# Include the shared neon-genesis configuration files.
+[submodule "source/resources"]
+	path = source/resources
+	url = https://github.com/xtaltha/neon-resources.git
